@@ -88,15 +88,15 @@ Desenvolver um aplicativo móvel simples (PWA) que facilite o acesso às informa
 
 (Adicionar imagens reais do seu MVP)
 
-* `screenshots/home.png`
-* `screenshots/linha.png`
-* `screenshots/favoritos.png`
+
 
 10. Qualidade e Normas Aplicadas
 
 * **ISO/IEC 25010** (usabilidade, confiabilidade e desempenho).
 * **ISO 9241** (ergonomia da interação).
 * **WCAG 2.1** (acessibilidade: contraste, tamanho mínimo de fonte, navegação clara).
+
+  11. https://mendanfe.github.io/URBANGO/
 
 ---
 
